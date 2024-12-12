@@ -43,3 +43,18 @@ you can use my pre-trained model in model folder, or if you want customize model
 ```bash
 pip install -r requirements.t
 ```
+## Update kaggle dataset
+- I was updated training file using [kaggle dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset), just download and add data to /data folder
+- /data folder have structure:
+```
+/data
+├── 1
+│   ├── 1_0_0.jpg
+│   ├── 1_0_1.jpg
+│   └── ...
+├── 2
+│   ├── 2_0_0.jpg
+│   ├── 2_0_1.jpg
+│   └── ...
+└── ...
+```
