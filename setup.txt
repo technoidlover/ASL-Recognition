@@ -1,0 +1,9 @@
+opencv-python
+keras
+tensorflow
+matplotlib
+pandas
+pillow
+scikit-learn
+opencv-python-headless
+numpy
